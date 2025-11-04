@@ -1,10 +1,10 @@
-# 🍕 Prevendo o Valor de uma Pizza
+# Prevendo o Valor de uma Pizza
 
 Este é um projeto simples em **Python** utilizando **Streamlit** e **Scikit-Learn** para prever o preço de uma pizza com base em seu diâmetro. Ele demonstra de forma prática o uso de **regressão linear** para aprendizado de máquina.
 
 ---
 
-## 🚀 Tecnologias Utilizadas
+## Tecnologias Utilizadas
 - [Python 3.8+](https://www.python.org/)
 - [Streamlit](https://streamlit.io/)
 - [Pandas](https://pandas.pydata.org/)
@@ -12,7 +12,7 @@ Este é um projeto simples em **Python** utilizando **Streamlit** e **Scikit-Lea
 
 ---
 
-## 📦 Instalação
+## Instalação
 
 1. Clone este repositório ou baixe os arquivos:
    ```bash
@@ -34,7 +34,7 @@ Este é um projeto simples em **Python** utilizando **Streamlit** e **Scikit-Lea
 
 ---
 
-## 📊 Estrutura do Projeto
+## Estrutura do Projeto
 ```
 📁 preco-pizza
 ├── pizzas.csv              # Base de dados com diâmetro e preço
@@ -45,7 +45,7 @@ Este é um projeto simples em **Python** utilizando **Streamlit** e **Scikit-Lea
 
 ---
 
-## ▶️ Como Executar o Projeto
+## Como Executar o Projeto
 
 Após instalar as dependências, execute o comando abaixo:
 
