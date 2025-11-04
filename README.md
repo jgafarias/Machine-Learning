@@ -92,7 +92,6 @@ preco = a * diametro + b
 
 ## Autor
 Desenvolvido por **João Gabriel**
-Com base no video: [Seu primeiro projeto de Inteligência Artificial com Python (usando Machine Learning)](https://www.youtube.com/watch?v=bGwdwF1vlvQ&t=1239s)
 
-📸 Instagram: [@personal.raffaelaraujo](https://instagram.com/personal.raffaelaraujo)
+Tutorial: [Seu primeiro projeto de Inteligência Artificial com Python (usando Machine Learning)](https://www.youtube.com/watch?v=bGwdwF1vlvQ&t=1239s)
 
