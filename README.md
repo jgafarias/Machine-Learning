@@ -36,7 +36,7 @@ Este é um projeto simples em **Python** utilizando **Streamlit** e **Scikit-Lea
 
 ## Estrutura do Projeto
 ```
-📁 preco-pizza
+machine-learning
 ├── pizzas.csv              # Base de dados com diâmetro e preço
 ├── app.py                  # Código principal do Streamlit
 ├── requirements.txt        # Lista de dependências do projeto
